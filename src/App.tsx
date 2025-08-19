@@ -30,13 +30,13 @@ function App() {
       <div className="w-full max-w-4xl bg-white shadow-lg rounded-2xl p-8 space-y-10">
         {/* Header */}
         <h1 className="text-3xl font-bold text-blue-600 text-center">
-          Front-End Assignment Demo
+          Front-End Assignment 
         </h1>
 
         {/* Form Section */}
         <section className="space-y-6">
           <h2 className="text-2xl font-semibold text-gray-700 border-b pb-2">
-            InputField Examples
+            InputField 
           </h2>
 
           <div className="grid md:grid-cols-2 gap-6">
@@ -90,7 +90,7 @@ function App() {
         {/* DataTable Section */}
         <section className="space-y-6">
           <h2 className="text-2xl font-semibold text-gray-700 border-b pb-2">
-            DataTable Example
+            DataTable
           </h2>
 
           <DataTable
