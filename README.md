@@ -1,6 +1,6 @@
 # Front-End Assignment (React + TypeScript + TailwindCSS)
 
-This project implements **two reusable UI components** as per the assignment PDF:
+This project implements two reusable UI components:
 
 1. **InputField**  
    - Variants: `outlined`, `filled`, `ghost`  
@@ -15,9 +15,6 @@ This project implements **two reusable UI components** as per the assignment PDF
    - Clean TailwindCSS styling  
 
 ---
-
-## 🚀 Getting Started
-
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/usama-shaikh72/ui-components
